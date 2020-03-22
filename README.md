@@ -1,1 +1,1 @@
-# covid19-de-bw-issues
+Issue tracker for covid19debw.eu.pythonanywhere.com
